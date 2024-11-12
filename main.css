@@ -1,0 +1,21 @@
+#head{
+     display: flex;
+    align-items: center;
+     height: 60px;
+     width: 100%;
+     border: 2px solid black;
+}
+#main-div{
+
+     display: flex;
+   
+     align-items: center;
+     margin-top: 50px;
+}
+img{
+    width: 600px;
+     
+}
+#image{
+     margin-right: 4px;
+}

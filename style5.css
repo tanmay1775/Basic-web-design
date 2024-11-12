@@ -1,0 +1,174 @@
+*{
+    margin: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    
+}
+#header1{
+     background-image: url(top1.jpg);
+     height: 500px;
+     width: 1521px;
+     background-size: 1521px 500px;
+    
+    
+}
+#p1{
+     margin-top: 300px;
+     margin-left: 360px;
+     font-size: 80px;
+     color: #f6f6f2;
+   
+}
+#nav{
+     height: 45px;
+     display: flex;
+     align-items: center;   
+    
+}
+a{
+     margin-left: 38px;
+     
+     color: #056c89;
+     font-size: 15px;
+     text-decoration: none;
+     
+}
+a:hover{
+     font-size: larger;
+}
+textarea{
+     padding: 6px;
+     font-size: medium;
+     border-radius: 10px;
+     width: 400px;
+     height: 23px;
+     margin-left: 600px;
+     border: 2px solid grey;
+     font-family: Arial, Helvetica, sans-serif; 
+}
+textarea:hover{
+     border-color: rgb(195, 103, 37);
+     border-width: 2px;
+}
+
+
+i{
+     margin-left: -32px;
+     color: #056c89;
+}
+#main-content{
+      display: flex;
+      flex-wrap: wrap;
+     justify-content: space-evenly;
+   
+     height: 640px;
+     width: 1521px;
+     background-color: #eae7dc;     
+}
+#div1{
+   
+   
+     height: 150px;
+     width: 300px;
+     background-color: white;
+   
+     
+}
+#div-out{
+     text-align: center;
+     height: 250px;
+     width: 320px;
+      margin-right: 5px;
+     margin-top: 50px;
+     border-radius: 20px;
+     font-size: larger;
+     background-color:white;
+     box-shadow: 3px 3px #cccccc;
+   
+}
+#div-out:hover{
+     border: 2px solid grey;
+
+}
+#div1{
+     background-image: url(Konarka_Temple.jpg);
+     height:200px;
+     width: 320px;
+    border-radius: 20px;
+   border-bottom-left-radius: 0px;
+   border-bottom-right-radius: 0px;
+   background-size: cover;
+   
+}
+#div2{
+     background-image: url(MAIN-Jantar-Mantar-travel-tips-in-hindi-.jpg);
+     height:200px;
+     width: 320px;
+    border-radius: 20px;
+   border-bottom-left-radius: 0px;
+   border-bottom-right-radius: 0px;
+      background-size: cover;
+}
+#div3{
+     background-image: url(lotus-temple-delhi.jpg);
+     height:200px;
+     width: 320px;
+    border-radius: 20px;
+   border-bottom-left-radius: 0px;
+   border-bottom-right-radius: 0px;
+      background-size: cover;
+}
+#div4{
+     background-image: url(redfort.jpeg);
+     height:200px;
+     width: 320px;
+    border-radius: 20px;
+   border-bottom-left-radius: 0px;
+   border-bottom-right-radius: 0px;
+      background-size: cover;
+}
+#div5{
+     background-image: url(tajmahal.jpeg);
+     height:200px;
+     width: 320px;
+    border-radius: 20px;
+   border-bottom-left-radius: 0px;
+   border-bottom-right-radius: 0px;
+      background-size: cover;
+}
+#div6{
+     background-image: url(hawa.jpg);
+     height:200px;
+     width: 320px;
+    border-radius: 20px;
+   border-bottom-left-radius: 0px;
+   border-bottom-right-radius: 0px;
+      background-size: cover;
+}
+#div7{
+     background-image: url(Agra\ Fort.jpg);
+     height:200px;
+     width: 320px;
+    border-radius: 20px;
+   border-bottom-left-radius: 0px;
+   border-bottom-right-radius: 0px;
+      background-size: cover;
+}
+#div8{
+     background-image: url(India.jpg);
+     height:200px;
+     width: 320px;
+    border-radius: 20px;
+   border-bottom-left-radius: 0px;
+   border-bottom-right-radius: 0px;
+      background-size: cover;
+}
+#footer{
+   
+      display: flex;
+  align-items: center;
+  justify-content: space-around; 
+     height: 30px;
+     width:100%;
+}
